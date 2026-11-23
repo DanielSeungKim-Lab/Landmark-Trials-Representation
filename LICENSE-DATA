@@ -1,0 +1,6 @@
+The data files in this repository (DATA-01-trials.csv, DATA-02-census-benchmarks.csv and
+DATA-03-category-mismatches.csv) are licensed under the Creative Commons Attribution 4.0
+International license (CC BY 4.0): https://creativecommons.org/licenses/by/4.0/
+
+The trial counts are transcribed from ClinicalTrials.gov and the trial publications; the compilation
+is ours. Census benchmarks are derived from US Census Bureau population estimates.
